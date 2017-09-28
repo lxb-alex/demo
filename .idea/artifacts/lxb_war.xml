@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lxb:war">
+    <output-path>$PROJECT_DIR$/lxb/target</output-path>
+    <root id="archive" name="lxb.war">
+      <element id="artifact" artifact-name="lxb:war exploded" />
+    </root>
+  </artifact>
+</component>
